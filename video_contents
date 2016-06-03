@@ -1,0 +1,35 @@
+{
+    "videos":
+    [
+         {
+         "video_url"     : "https://cdn.dropbox.com/fantasticfour/fantasticfour.mp4",
+         "download_url"     : "",
+         "poster_url"     : "https://cdn.dropbox.com/fantasticfour/fantasticfour.png",
+         "cinemagraph_url"     : "",
+         "proxy_url"    : "",
+         "streaming_type"    : "DASH",
+         "title"        : "Fantastic Four",
+         "format"        : "2D",
+         "category"        : "trailers",
+         "theater"        : "",
+         "creator"        : "20th Century Fox",
+         "info1"        :  "This movie is bla-bla",
+         "info2"        : ""
+         },
+         {
+         "video_url"     : "https://cdn.dropbox.com/xxxx/xxxx.mp4",
+         "download_url"     : "",
+         "poster_url"     : "https://cdn.dropbox.com/xxxx/xxxx.jpg",
+         "cinemagraph_url"     : "",
+         "proxy_url"    : "",
+         "streaming_type"    : "DASH",
+         "title"        : "xxxx",
+         "format"        : "3D",
+         "category"        : "trailers",
+         "theater"        : "",
+         "creator"        : "20th Century Fox",
+         "info1"        :  "This movie is bla-bla",
+         "info2"        : ""
+         }
+    ]
+}
