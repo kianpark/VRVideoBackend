@@ -13,7 +13,7 @@
         "category"      : "trailers",
         "theater"       : "",
         "creator"       : "Oculus",
-        "info1"         :  "This movie is bla-bla",
+        "info1"         : "This movie is bla-bla",
         "info2"         : ""
         },
         {
@@ -28,7 +28,7 @@
         "category"      : "trailers",
         "theater"       : "",
         "creator"       : "Oculus Studio",
-        "info1"         :  "This movie is bla-bla",
+        "info1"         : "This movie is bla-bla",
         "info2"         : ""
         },
         {
@@ -43,7 +43,7 @@
         "category"      : "trailers",
         "theater"       : "",
         "creator"       : "Sasmsung",
-        "info1"         :  "This movie is bla-bla",
+        "info1"         : "This movie is bla-bla",
         "info2"         : ""
         },
         {
@@ -60,7 +60,7 @@
         "creator"       : "Sasmsung",
         "info1"         : "This movie is bla-bla",
         "info2"         : "",
-        "is360"         : true,
+        "is360"         : "true",
         "presentation_format" : "OFFSET_CUBEMAP_23"
         }
     ]
