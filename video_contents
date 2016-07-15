@@ -45,6 +45,23 @@
         "creator"       : "Sasmsung",
         "info1"         :  "This movie is bla-bla",
         "info2"         : ""
+        },
+        {
+        "video_url"     : "file:///sdcard/Oculus/lost-6k/Lost_6k_offseted.mpd",
+        "download_url"  : "file:///sdcard/Oculus/lost-6k/Lost_6k_offseted.mpd",
+        "poster_url"    : "file:///sdcard/Oculus/lost-6k/Lost_6k_offseted.mpd",
+        "cinemagraph_url" : "",
+        "proxy_url"     : "",
+        "streaming_type" : "DYNAMIC_STREAMING_DASH",
+        "title"         : "Lost 6K DS",
+        "format"        : "GUESS",
+        "category"      : "trailers",
+        "theater"       : "",
+        "creator"       : "Sasmsung",
+        "info1"         :  "This movie is bla-bla",
+        "info2          : "",
+        "is360"         : true,
+        "presentation_format" : "OFFSET_CUBEMAP_23"
         }
     ]
 }
