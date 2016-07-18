@@ -77,6 +77,21 @@
         "info2"         : "",
         "is360"         : "true",
         "presentation_format" : "OFFSET_CUBEMAP_23"
+        },
+        {
+        "video_url"     : "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd",
+        "poster_url"    : "https://dl.dropboxusercontent.com/s/hjhombwz3smr60e/%255bSamsung%255d%20360%20video%20demo.png",
+        "cinemagraph_url" : "",
+        "proxy_url"     : "",
+        "streaming_type" : "DASH",
+        "title"         : "car by http://dash-mse-test.appspot.com/",
+        "format"        : "GUESS",
+        "category"      : "trailers",
+        "theater"       : "",
+        "creator"       : "None",
+        "info1"         : "This movie is bla-bla",
+        "info2"         : "",
+        "is360"         : "true"
         }
     ]
 }
