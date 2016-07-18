@@ -91,7 +91,7 @@
         "creator"       : "None",
         "info1"         : "This movie is bla-bla",
         "info2"         : "",
-        "is360"         : "true"
+        "is360"         : "false"
         }
     ]
 }
