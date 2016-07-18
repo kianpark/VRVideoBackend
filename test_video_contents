@@ -49,7 +49,7 @@
         },
         {
         "video_url"     : "file:///sdcard/Oculus/car-20120827/car-20120827-manifest.mpd",
-        "poster_url"    : "https://dl.dropboxusercontent.com/s/hjhombwz3smr60e/%255bSamsung%255d%20360%20video%20demo.png",
+        "poster_url"    : "file:///sdcard/Oculus/car-20120827/car-20120827.png",
         "cinemagraph_url" : "",
         "proxy_url"     : "",
         "streaming_type" : "DASH",
