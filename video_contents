@@ -79,7 +79,7 @@
         "presentation_format" : "OFFSET_CUBEMAP_23"
         },
         {
-        "video_url"     : "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd",
+        "video_url"     : "https://dl.dropboxusercontent.com/s/ga7sk04d83yod8v/car-20120827.zip",
         "poster_url"    : "https://dl.dropboxusercontent.com/s/hjhombwz3smr60e/%255bSamsung%255d%20360%20video%20demo.png",
         "cinemagraph_url" : "",
         "proxy_url"     : "",
