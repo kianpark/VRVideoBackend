@@ -48,7 +48,6 @@
         },
         {
         "video_url"     : "https://dl.dropboxusercontent.com/s/cskv3azw9i6682o/Lost_6k_offseted.mpd",
-        "download_url"  : "https://dl.dropboxusercontent.com/s/cskv3azw9i6682o/Lost_6k_offseted.mpd",
         "poster_url"    : "https://dl.dropboxusercontent.com/s/hjhombwz3smr60e/%255bSamsung%255d%20360%20video%20demo.png",
         "cinemagraph_url" : "",
         "proxy_url"     : "",
@@ -65,7 +64,6 @@
         },
         {
         "video_url"     : "file:///sdcard/Oculus/lost-6k/Lost_6k_offseted.mpd",
-        "download_url"  : "file:///sdcard/Oculus/lost-6k/Lost_6k_offseted.mpd",
         "poster_url"    : "https://dl.dropboxusercontent.com/s/hjhombwz3smr60e/%255bSamsung%255d%20360%20video%20demo.png",
         "cinemagraph_url" : "",
         "proxy_url"     : "",
