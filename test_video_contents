@@ -76,7 +76,7 @@
         "info1"         : "This movie is bla-bla",
         "info2"         : "",
         "is360"         : "true",
-        "presentation_format" : "SPHERICAL"
+        "presentation_format" : "OFFSET_CUBEMAP_23"
         }
     ]
 }
