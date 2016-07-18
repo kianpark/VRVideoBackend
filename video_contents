@@ -47,22 +47,6 @@
         "info2"         : ""
         },
         {
-        "video_url"     : "https://dl.dropboxusercontent.com/s/cskv3azw9i6682o/Lost_6k_offseted.mpd",
-        "poster_url"    : "https://dl.dropboxusercontent.com/s/hjhombwz3smr60e/%255bSamsung%255d%20360%20video%20demo.png",
-        "cinemagraph_url" : "",
-        "proxy_url"     : "",
-        "streaming_type" : "DYNAMIC_STREAMING_DASH",
-        "title"         : "Lost 6K DS",
-        "format"        : "GUESS",
-        "category"      : "trailers",
-        "theater"       : "",
-        "creator"       : "Sasmsung",
-        "info1"         : "This movie is bla-bla",
-        "info2"         : "",
-        "is360"         : "true",
-        "presentation_format" : "OFFSET_CUBEMAP_23"
-        },
-        {
         "video_url"     : "file:///sdcard/Oculus/lost-6k/Lost_6k_offseted.mpd",
         "poster_url"    : "https://dl.dropboxusercontent.com/s/hjhombwz3smr60e/%255bSamsung%255d%20360%20video%20demo.png",
         "cinemagraph_url" : "",
@@ -76,7 +60,7 @@
         "info1"         : "This movie is bla-bla",
         "info2"         : "",
         "is360"         : "true",
-        "presentation_format" : "OFFSET_CUBEMAP_23"
+        "presentation_format" : "PYRAMID"
         },
         {
         "video_url"     : "http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd",
