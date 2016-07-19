@@ -7,7 +7,7 @@
         "poster_url"    : "https://dl.dropboxusercontent.com/s/hjhombwz3smr60e/%255bSamsung%255d%20360%20video%20demo.png",
         "cinemagraph_url" : "",
         "proxy_url"     : "",
-        "streaming_type" : "DASH",
+        "streaming_type" : "MP4",
         "title"         : "[Samsung] 360 video demo",
         "format"        : "3D",
         "category"      : "trailers",
